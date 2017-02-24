@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一只叫酸奶的喵</title>
+  <subtitle>喵喵喵</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://suannai.cat/"/>
+  <updated>2017-02-24T03:26:33.000Z</updated>
+  <id>http://suannai.cat/</id>
+  
+  <author>
+    <name>酸奶</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好哇，二脚兽</title>
+    <link href="http://suannai.cat/posts/%E4%BD%A0%E5%A5%BD%E5%93%87%EF%BC%8C%E4%BA%8C%E8%84%9A%E5%85%BD/"/>
+    <id>http://suannai.cat/posts/你好哇，二脚兽/</id>
+    <published>2017-02-22T18:16:52.000Z</published>
+    <updated>2017-02-24T03:26:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Q: 你是谁？<br>A: 我是酸奶，来自喵星，是个可爱的女孩子，我的铲屎官是 <a href="https://www.anotherhome.net" target="_blank" rel="external">DIYgod</a>，对他好点，他是我罩的。</p>
+<p>Q: 你的身世是怎样的？<br>A: 我还有6个兄弟姐妹，有一个姐姐（<a href="http://blog.zanyuyu.com/tags/%E7%8C%AB/" target="_blank" rel="external">蛋糕</a>）在<a href="http://weibo.com/zanyuyu" target="_blank" rel="external">赞鱼鱼</a>家；2017 年 2 月 23 日起正式雇佣 DIYgod 为我的铲屎官。</p>
+<p>Q: 你多大了？<br>A: 50多天了，所以不要把我当一个月的小屁喵看待了。</p>
+<p>Q: 你是什么品种的？<br>A: 美短，加白，非纯种。</p>
+<p>Q: 你最喜欢什么？<br>A: 吃肉。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Q: 你是谁？&lt;br&gt;A: 我是酸奶，来自喵星，是个可爱的女孩子，我的铲屎官是 &lt;a href=&quot;https://www.anotherhome.net&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;DIYgod&lt;/a&gt;，对他好点，他是我罩的。&lt;/p&gt;
+&lt;
+    
+    </summary>
+    
+    
+      <category term="事件簿" scheme="http://suannai.cat/tags/%E4%BA%8B%E4%BB%B6%E7%B0%BF/"/>
+    
+  </entry>
+  
+</feed>
