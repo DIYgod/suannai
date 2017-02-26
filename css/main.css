@@ -1739,7 +1739,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0efea7;
+  background: #8e99ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2584,4 +2584,11 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+.dplayer .dplayer-video-wrap .dplayer-video {
+  max-height: 600px;
+  background: #fff;
+}
+.post-body img {
+  max-height: 600px;
 }
